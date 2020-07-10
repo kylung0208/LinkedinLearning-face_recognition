@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/usr/local/anaconda3/envs/face-recognition/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode":"strict",
+}
